@@ -1,4 +1,4 @@
-import { metrics } from "./metrics";
+import { metrics } from './metrics';
 
 export default {
   colors: {
