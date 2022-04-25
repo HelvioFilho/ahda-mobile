@@ -1,5 +1,5 @@
-import { Audio } from 'expo-av';
 import React, { useEffect, useState } from 'react';
+import { Audio } from 'expo-av';
 import { Button, View } from 'react-native';
 
 import { Container } from './styles';
